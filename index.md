@@ -6,3 +6,6 @@
 ###### This is of size 6, The smallest.
 Inserted the headings of different sizes
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+``` javascript
+var myVar = "Hello, world!";
+```
